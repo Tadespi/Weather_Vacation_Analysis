@@ -21,11 +21,11 @@ In this section, you will utilize weather data to plan future vacations and crea
 
 Main Tasks:
 
-Create a map displaying a point for every city in the DataFrame, with the size of the point representing the humidity.
-Narrow down the DataFrame to find cities with ideal weather conditions based on specified criteria.
-Utilize the Geoapify API to find the first hotel within 10,000 meters of each city's coordinates.
-Generate a new DataFrame to store city, country, coordinates, humidity, and hotel information.
-Add hotel name and country as additional information in the hover message for each city on the map.
+- Create a map displaying a point for every city in the DataFrame, with the size of the point representing the humidity.
+- Narrow down the DataFrame to find cities with ideal weather conditions based on specified criteria.
+- Utilize the Geoapify API to find the first hotel within 10,000 meters of each city's coordinates.
+- Generate a new DataFrame to store city, country, coordinates, humidity, and hotel information.
+- Add hotel name and country as additional information in the hover message for each city on the map.
 
 # Conclusion:
 Summarize key findings and insights from the weather analysis and vacation planning process.
